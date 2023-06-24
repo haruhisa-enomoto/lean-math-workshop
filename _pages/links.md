@@ -12,7 +12,7 @@ Leanに関する有用なサイトへのリンク集です。
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/): 証明支援系としてのLeanの辞書・チュートリアルのようなもの
 - [Lean 4 Manual](https://leanprover.github.io/lean4/doc/): プログラミング言語としてのLeanのマニュアル
 - [Natural Number Game](https://adam.math.hhu.de/#/g/hhu-adam/NNG4): ペアノの公理から出発して自然数の性質を示すゲーム形式でLeanの基礎タクティクスを学べる（まだ開発中で説明不足な点などあり）
-- [mathlib4](https://github.com/leanprover-community/mathlib4)([documentation](https://leanprover-community.github.io/mathlib4_docs/)): 有志による学部程度の数学をLean 4で実装するプロジェクト
+- [mathlib4](https://github.com/leanprover-community/mathlib4) ([documentation](https://leanprover-community.github.io/mathlib4_docs/)): 有志による学部程度の数学をLean 4で実装するプロジェクト。下記mathlibのLean 4版で、現在移行作業中。
 
 ## 全般
 
