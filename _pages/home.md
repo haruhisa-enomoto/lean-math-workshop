@@ -43,7 +43,7 @@ TBA
 <https://github.com/yuma-mizuno/lean-math-workshop>
 
 ## オーガナイザー
-- [梅崎直也（株式会社dwango/株式会社すうがくぶんか）](https://sugakubunka.com/about/lecturers/un/)
+- [梅崎 直也（株式会社dwango/株式会社すうがくぶんか）](https://umezakinaoya.com/)
 - [榎本 悠久（大阪公立大学）](https://haruhisa-enomoto.github.io/)
 - [佐野 岳人（理化学研究所　iTHEMS）](https://ithems.riken.jp/ja/members/taketo-sano)
 - [水野 勇磨（千葉大学）](https://yuma-mizuno.github.io/)
