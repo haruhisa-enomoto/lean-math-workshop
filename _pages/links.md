@@ -12,7 +12,7 @@ Leanに関する有用なサイトへのリンク集です。
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/): 証明支援系としてのLeanの辞書・チュートリアルのようなもの
 - [Lean 4 Manual](https://leanprover.github.io/lean4/doc/): プログラミング言語としてのLeanのマニュアル
 - [Natural Number Game](https://adam.math.hhu.de/#/g/hhu-adam/NNG4): ペアノの公理から出発して自然数の性質を示すゲーム形式でLeanの基礎タクティクスを学べる（まだ開発中で説明不足な点などあり）
-- [mathlib4](https://github.com/leanprover-community/mathlib4) ([documentation](https://leanprover-community.github.io/mathlib4_docs/)): 有志による学部程度の数学をLean 4で実装するプロジェクト。下記mathlibのLean 4版で、現在移行作業中。
+- [mathlib4](https://github.com/leanprover-community/mathlib4) ([documentation](https://leanprover-community.github.io/mathlib4_docs/)): 有志による学部程度の数学をLean 4で実装するプロジェクト。今年7/16にLean 3から完全移行した。
 
 ## 全般
 
@@ -23,4 +23,4 @@ Leanに関する有用なサイトへのリンク集です。
 ## Lean 3
 
 - [Lean Community](https://leanprover-community.github.io/index.html): Lean 3やmathlibについてのLean公式コミュニティのページ。
-- [mathlib](https://github.com/leanprover-community/mathlib) ([documentation](https://leanprover-community.github.io/mathlib_docs/)): Lean 3で実装された数学ライブラリ。数学の定理を証明するための基本的なタクティクスが実装されている。現在は mathlib4への移行作業中。
+- [mathlib](https://github.com/leanprover-community/mathlib) ([documentation](https://leanprover-community.github.io/mathlib_docs/)): mathlib 4 の前身である Lean 3 で書かれた数学ライブラリ。
