@@ -26,7 +26,11 @@ title: "数学系のためのLean勉強会"
 
 ## 参加登録
 
-TBA
+参加登録: 下記Googleフォームから登録をお願いします。
+
+<https://docs.google.com/forms/d/e/1FAIpQLScjIwo-VbJSA6nHNlvtZYKtXx1li8MuYaC3OL_NWlPQVXVpbw/viewform>
+
+申込締切: 前日(9月2日)まで。対面参加は定員30名に達した時点で締切。
 
 ## スケジュール（暫定）
 
