@@ -33,7 +33,7 @@ title: "数学系のためのLean勉強会"
 
 <https://docs.google.com/forms/d/e/1FAIpQLScjIwo-VbJSA6nHNlvtZYKtXx1li8MuYaC3OL_NWlPQVXVpbw/viewform>
 
-申込締切: 前日(9月2日)まで。対面参加は定員30名に達した時点で締切。
+申込締切: 前日(9月2日)まで。~~対面参加は定員30名に達した時点で締切。~~ 7/22現在、対面参加は定員に達したので、申し込みを締め切らせていただきます。オンライン参加は引き続き受け付けています。
 
 ## スケジュール（暫定）
 
