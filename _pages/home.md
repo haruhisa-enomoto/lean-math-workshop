@@ -4,7 +4,6 @@ permalink: /
 title: "数学系のためのLean勉強会"
 ---
 
-
 ## 会場
 
 [新宿ビジネスルーム](http://shinjuku-business-room.com/)・ハイブリッド形式
@@ -45,9 +44,14 @@ title: "数学系のためのLean勉強会"
 |14:00 - 16:30|チュートリアル実践|
 |16:30 - 17:30|フリーディスカッション|
 
-## 教材（準備中）
+## 教材
 
 <https://github.com/yuma-mizuno/lean-math-workshop>
+
+## 教材を開くまでの準備の解説動画
+VS Code, Lean, Gitをインストールして、上の教材を自分のPCにダウンロードして遊べるようになるまでの、初心者向け解説動画です。
+- [Windows編](https://youtu.be/LDfmNmzY5_8)
+- [Mac編](https://youtu.be/d8DSHFBMWwU)
 
 ## オーガナイザー
 - [梅崎 直也（株式会社dwango/株式会社すうがくぶんか）](https://umezakinaoya.com/)
