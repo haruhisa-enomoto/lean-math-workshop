@@ -26,14 +26,6 @@ title: "数学系のためのLean勉強会"
 ## 前提知識
 数学科の学部二年程度の内容には習熟していることを前提とします。
 
-## 参加登録
-
-参加登録: 下記Googleフォームから登録をお願いします。
-
-<https://docs.google.com/forms/d/e/1FAIpQLScjIwo-VbJSA6nHNlvtZYKtXx1li8MuYaC3OL_NWlPQVXVpbw/viewform>
-
-申込締切: 前日(9月2日)まで。~~対面参加は定員30名に達した時点で締切。~~ 7/22現在、対面参加は定員に達したので、申し込みを締め切らせていただきます。オンライン参加は引き続き受け付けています。
-
 ## スケジュール
 
 |時間|内容|
@@ -47,6 +39,9 @@ title: "数学系のためのLean勉強会"
 ## 教材
 
 <https://github.com/yuma-mizuno/lean-math-workshop>
+
+## スライド
+- [Leanの基礎](/files/2023-09-03.pdf)
 
 ## 教材を開くまでの準備の解説動画
 VS Code, Lean, Gitをインストールして、上の教材を自分のPCにダウンロードして遊べるようになるまでの、初心者向け解説動画です。
