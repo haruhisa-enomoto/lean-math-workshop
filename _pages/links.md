@@ -8,6 +8,9 @@ Leanに関する有用なサイトへのリンク集です。
 
 ## Lean 4
 
+### リンク集
+- <https://aconite-ac.github.io/>: 有志個人様（下記Theorem Proving in Lean4の和訳者）がまとめてくださったリンク集
+
 ### 公式サイト・教科書的なもの
 - [Lean Theorem Prover](https://leanprover.github.io/): Lean全般の公式サイト
 - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/): 証明支援系としてのLeanの辞書・チュートリアルのようなもの
