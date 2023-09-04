@@ -43,7 +43,8 @@ title: "数学系のためのLean勉強会"
 <https://github.com/yuma-mizuno/lean-math-workshop>
 
 ## スライド
-- [Leanの基礎](files/2023-09-03.pdf)
+- [イントロダクション](files/2023-09-03-Mizuno.pdf)
+- [Leanの基礎](files/2023-09-03-Enomoto.pdf)
 
 ## 教材を開くまでの準備の解説動画
 VS Code, Lean, Gitをインストールして、上の教材を自分のPCにダウンロードして遊べるようになるまでの、初心者向け解説動画です。
